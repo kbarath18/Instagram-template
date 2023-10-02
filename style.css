@@ -1,0 +1,164 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+
+.main{
+    margin: auto;
+    margin-top: 40px;
+    width: 	20rem;
+    height: 38rem;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+
+
+.box1{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    border-bottom: 1px solid #B4B4B3;
+}
+
+img{
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 40px;
+    
+}
+
+
+#story{
+    position: relative;
+    right: 10px;
+
+    width: 60px;
+    height: 60px;
+    transition: 0.5s;
+}
+
+#story:hover{
+    width: 65px;
+    height: 65px;
+}
+
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid red;
+    margin: 15px;
+    background-color: #F1EFEF;
+    transition: 0.5s;
+   
+}
+
+.circle:hover{
+    width: 55px;
+    height: 55px;
+    background: linear-gradient(45deg, red, blue);
+    border: 1px solid cyan;
+}
+
+
+
+
+.box2{
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 1px solid #B4B4B3;
+}
+
+.box3{
+    display: flex;
+   
+}
+
+#user{
+    padding: 20px;
+    width: 40px;
+    height: 40px;
+    transition: 0.5s;
+}
+
+#user:hover{
+    width: 50px;
+    height: 50px;
+}
+
+li{
+    position: relative;
+    left: 200px;
+}
+
+.box4{
+    background-color: #B4B4B3;
+    width: 	20rem;
+    height: 15rem;
+    transition: 0.5s;
+}
+
+.box4:hover{
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+#bookmark{
+    position: relative;
+    left: 100px;
+}
+
+.box6{
+    border-top: 1px solid #B4B4B3;
+}
+
+
+
+.nav{
+    padding: 14px;
+}
+
+#love{
+    width: 30px;
+    height: 30px;
+}
+
+#love:hover{
+    width: 35px;
+    height: 35px;
+}
+
+#bubble:hover{
+    width: 35px;
+    height: 35px;
+}
+
+
+.heart{
+    width: 30px;
+    height: 30px;
+}
+
+.heart:hover{
+    width: 35px;
+    height: 35px;
+}
+
+.nav{
+    width: 30px;
+    height: 30px;
+    transition: 0.5s;
+}
+.nav:hover{
+    width: 35px;
+    height: 35px;
+}
+
+
